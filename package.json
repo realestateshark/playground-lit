@@ -1,0 +1,22 @@
+{
+  "name": "playground-lit",
+  "version": "1.0.0",
+  "description": "Playground For Lit Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realestateshark/playground-lit.git"
+  },
+  "keywords": [
+    "web",
+    "components"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/realestateshark/playground-lit/issues"
+  },
+  "homepage": "https://github.com/realestateshark/playground-lit#readme"
+}
